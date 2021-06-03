@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Me champ Igor Nathan
+## Me chamo Igor Nathan
 
 Sou estudante de Análise e desenvolvimento de sistemas pelo Instituto Federal de São Paulo e futuro analista de sistemas.
 
