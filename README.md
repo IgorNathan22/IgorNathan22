@@ -4,7 +4,7 @@
 
 Sou estudante de Análise e desenvolvimento de sistemas pelo Instituto Federal de São Paulo e futuro analista de sistemas.
 
- 🔭 Atualmente estou a procura de trabalhos.\
+ 🔭 Estágiario.\
  🌱 Focado em sempre estar buscando aprender mais sobre a vida, em especial sobre a tecnologia.
 
 <div>
