@@ -2,9 +2,9 @@
 
 ## Me chamo Igor Nathan
 
-Sou estudante de Análise e desenvolvimento de sistemas pelo Instituto Federal de São Paulo e futuro analista de sistemas.
+Formado em Análise e desenvolvimento de Sistemas pelo Instituto Federal de São Paulo em dezembro de 2022.
 
- 🔭 Estágiario.\
+ 🔭 Analista de Sistemas Jr.\
  🌱 Focado em sempre estar buscando aprender mais sobre a vida, em especial sobre a tecnologia.
 
 <div>
